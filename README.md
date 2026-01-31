@@ -75,11 +75,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r2meen/r2meen/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r2meen/r2meen/output/pacman-contribution-graph.svg">
