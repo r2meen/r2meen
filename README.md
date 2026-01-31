@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">🏎 LANGUAGES 🏎 </h2>
+<h2 align="center">🏁 LANGUAGES 🏁 </h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="center">🏍 SKILLS 🏍</h2>
+<h2 align="center">🏁 SKILLS 🏁</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="center">🎶 SOCIALS 🎶</h2>
+<h2 align="center">🏁 SOCIALS 🏁</h2>
 
 ###
 
