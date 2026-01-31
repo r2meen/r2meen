@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">🏁 LANGUAGES 🏁 </h2>
+<h2 align="center"> LANGUAGES  </h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">🏁 DEV 🏁 </h2>
+<h2 align="center"> DEV  </h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="center">🏁 SKILLS 🏁</h2>
+<h2 align="center"> SKILLS </h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="center">🏁 SOCIALS 🏁</h2>
+<h2 align="center"> SOCIALS </h2>
 
 ###
 
@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:r2meen?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<img src="https://count.getloli.com/@:r2meen?theme=nixietube-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
