@@ -3,7 +3,9 @@ ___________________________________________________________________________
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjZW1xNXE2bXMxczVvamhkYm9qNjUwZGRzZXlyd21xZWxscnJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7UtMlTMGNfEYdEOo6/giphy.gif"  />
 </div>
 
-```text
+<div align="center">
+
+<pre
 ┌──────────────────────────── DRIVER PROFILE ─────────────────────────────┐
 
 👤 Driver Name:      Rameen
@@ -26,16 +28,18 @@ ___________________________________________________________________________
 
 ┌──────────────────────────── CURRENT RACE DATA ──────────────────────────┐
 
-🏎️ Current Project:   Building something awesome
-📚 Learning Curve:     New tech that scares me (the fun kind)
+🏎️ Current Project:  Building something awesome
+📚 Learning Curve:   New tech that scares me (the fun kind)
 
 ┌──────────────────────────── TELEMETRY STATS ────────────────────────────┐
 
-📦 Repositories:      06
-⭐ Stars Collected:    Still Searching
-🔧 Contributions:      2+
-🔥 Coding Streak:      Still on track
-🐛 Bugs Squashed:      Too many to count
+📦 Repositories:     06
+⭐ Stars Collected:  Still Searching
+🔧 Contributions:    2+
+🔥 Coding Streak:    Still on track
+🐛 Bugs Squashed:    Too many to count
 
 └──────────────────────────────────────────────────────────────────────────┘
-```
+</pre>
+
+</div>
