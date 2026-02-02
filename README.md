@@ -1,10 +1,7 @@
-```text
-                ____________________________________________
+    ____________________________________________
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjZW1xNXE2bXMxczVvamhkYm9qNjUwZGRzZXlyd21xZWxscnJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7UtMlTMGNfEYdEOo6/giphy.gif"  />
 </div>
-
-```
 
 ```text
 ┌──────────────────────────── DRIVER PROFILE ─────────────────────────────┐
@@ -42,8 +39,3 @@
 
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-
-
-
-
-…I’ll tune the jokes, sections, and “car specs” so it feels like a custom-built championship machine 🏆
