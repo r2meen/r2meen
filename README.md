@@ -1,77 +1,135 @@
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjZW1xNXE2bXMxczVvamhkYm9qNjUwZGRzZXlyd21xZWxscnJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7UtMlTMGNfEYdEOo6/giphy.gif"  />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Driver Profile</title>
+<style>
+    body {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+        font-family: 'Courier New', Courier, monospace;
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+    }
+    .profile-container {
+        background-color: #2c2c2c;
+        border: 2px solid #555;
+        border-radius: 10px;
+        padding: 20px 30px;
+        max-width: 600px;
+        text-align: center;
+    }
+    pre {
+        margin: 0 0 20px 0;
+        text-align: center;
+        line-height: 1.5;
+        font-size: 16px;
+    }
+    h2 {
+        border-bottom: 1px solid #555;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+        font-size: 18px;
+        color: #ffd700;
+    }
+    .section {
+        margin-bottom: 20px;
+        text-align: left;
+    }
+    .section table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .section td {
+        padding: 4px 8px;
+        vertical-align: top;
+    }
+    .section td.label {
+        font-weight: bold;
+        width: 40%;
+        color: #ffd700;
+        white-space: nowrap;
+    }
+    .section td.value {
+        width: 60%;
+        color: #fff;
+    }
+</style>
+</head>
+<body>
+
+<div class="profile-container">
+
+    <pre>
+┌──────────────────────────── DRIVER PROFILE ─────────────────────────────┐
+    </pre>
+
+    <div class="section">
+        <table>
+            <tr><td class="label">👤 Driver Name:</td><td class="value">Rameen</td></tr>
+            <tr><td class="label">🏁 Team:</td><td class="value">CIS</td></tr>
+            <tr><td class="label">🧠 Role:</td><td class="value">Developer | Engineer | Builder of Cool Stuff</td></tr>
+            <tr><td class="label">🌍 Location:</td><td class="value">Somewhere on Earth (usually in front of a screen)</td></tr>
+            <tr><td class="label">☕ Fuel Type:</td><td class="value">Coffee 98 / Energy Drink Hybrid</td></tr>
+        </table>
+    </div>
+
+    <pre>
+┌──────────────────────────── CAR SPEC SHEET ─────────────────────────────┐
+    </pre>
+
+    <div class="section">
+        <table>
+            <tr><td class="label">💻 OS:</td><td class="value">Windows / Linux</td></tr>
+            <tr><td class="label">🧩 IDE:</td><td class="value">VS Code</td></tr>
+            <tr><td class="label">⚙️ Engine:</td><td class="value">Brain vX.X (Turbocharged with Curiosity)</td></tr>
+        </table>
+    </div>
+
+    <pre>
+┌──────────────────────────── PERFORMANCE STACK ──────────────────────────┐
+    </pre>
+
+    <div class="section">
+        <table>
+            <tr><td class="label">🚀 Programming:</td><td class="value">Python | C | C++</td></tr>
+            <tr><td class="label">🌐 Frontend Aero:</td><td class="value">HTML | CSS</td></tr>
+            <tr><td class="label">⚙️ DevOps Pit Crew:</td><td class="value">Git | Linux</td></tr>
+        </table>
+    </div>
+
+    <pre>
+┌──────────────────────────── CURRENT RACE DATA ──────────────────────────┐
+    </pre>
+
+    <div class="section">
+        <table>
+            <tr><td class="label">🏎️ Current Project:</td><td class="value">Building something awesome</td></tr>
+            <tr><td class="label">📚 Learning Curve:</td><td class="value">New tech that scares me (the fun kind)</td></tr>
+        </table>
+    </div>
+
+    <pre>
+┌──────────────────────────── TELEMETRY STATS ────────────────────────────┐
+    </pre>
+
+    <div class="section">
+        <table>
+            <tr><td class="label">📦 Repositories:</td><td class="value">06</td></tr>
+            <tr><td class="label">⭐ Stars Collected:</td><td class="value">Still searching</td></tr>
+            <tr><td class="label">🔧 Contributions:</td><td class="value">02</td></tr>
+            <tr><td class="label">🔥 Coding Streak:</td><td class="value">Still on track</td></tr>
+            <tr><td class="label">🐛 Bugs Squashed:</td><td class="value">Too many to count</td></tr>
+        </table>
+    </div>
+
+    <pre>
+└──────────────────────────────────────────────────────────────────────────┘
+    </pre>
+
 </div>
 
-###
-
-<h2 align="center"> LANGUAGES  </h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="center"> DEV  </h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
-
-###
-
-<h2 align="center"> SKILLS </h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-<img src="https://count.getloli.com/@:r2meen?theme=nixietube-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw0MG81bm4zbXkwaHFmdWk0czBvczB5b3Q1NHVjMmxlMThmaWh0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
-</div>
-
-###
-
-###
-
+</body>
+</html>
