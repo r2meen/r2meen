@@ -1,77 +1,49 @@
+```text
+                ____________________________________________
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjZW1xNXE2bXMxczVvamhkYm9qNjUwZGRzZXlyd21xZWxscnJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U7UtMlTMGNfEYdEOo6/giphy.gif"  />
 </div>
 
-###
+```
 
-<h2 align="center"> LANGUAGES  </h2>
+```text
+┌──────────────────────────── DRIVER PROFILE ─────────────────────────────┐
 
-###
+👤 Driver Name:      Rameen
+🏁 Team:             CIS
+🧠 Role:             Developer | Engineer | Builder of Cool Stuff
+🌍 Location:         Somewhere on Earth (usually in front of a screen)
+☕ Fuel Type:        Coffee 98 / Energy Drink Hybrid
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-</div>
+┌──────────────────────────── CAR SPEC SHEET ─────────────────────────────┐
 
-###
+💻 OS:               Windows / Linux 
+🧩 IDE:              VS Code 
+⚙️ Engine:           Brain vX.X (Turbocharged with Curiosity)
 
-<h2 align="center"> DEV  </h2>
+┌──────────────────────────── PERFORMANCE STACK ──────────────────────────┐
 
-###
+🚀 Programming:      Python | C | C++ | 
+🌐 Frontend Aero:    HTML | CSS 
+⚙️ DevOps Pit Crew:  Git 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
+┌──────────────────────────── CURRENT RACE DATA ──────────────────────────┐
 
-###
+🏎️ Current Project:   Building something awesome
+📚 Learning Curve:     New tech that scares me (the fun kind)
 
-<h2 align="center"> SKILLS </h2>
+┌──────────────────────────── TELEMETRY STATS ────────────────────────────┐
 
-###
+📦 Repositories:      06
+⭐ Stars Collected:    Still Searching
+🔧 Contributions:      2+
+🔥 Coding Streak:      Still on track
+🐛 Bugs Squashed:      Too many to count
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-###
 
-<div align="left">
-</div>
 
-###
 
-<div align="center">
-<img src="https://count.getloli.com/@:r2meen?theme=nixietube-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw0MG81bm4zbXkwaHFmdWk0czBvczB5b3Q1NHVjMmxlMThmaWh0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
-</div>
-
-###
-
-###
-
+…I’ll tune the jokes, sections, and “car specs” so it feels like a custom-built championship machine 🏆
