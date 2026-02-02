@@ -1,7 +1,5 @@
-
 <div align="center">
 <pre>
-          
 ┌──────────────────────────── DRIVER PROFILE ─────────────────────────────┐
 
 👤 Driver Name:      Rameen
@@ -13,29 +11,28 @@
 ┌──────────────────────────── CAR SPEC SHEET ─────────────────────────────┐
 
 💻 OS:               Windows / Linux
-🧩 IDE:              VS Code 
+🧩 IDE:              VS Code
 ⚙️ Engine:           Brain vX.X (Turbocharged with Curiosity)
 
 ┌──────────────────────────── PERFORMANCE STACK ──────────────────────────┐
 
-🚀 Programming:      Python | C | C++ 
-🌐 Frontend Aero:    HTML | CSS 
-⚙️ DevOps Pit Crew:  Git | Linux 
+🚀 Programming:      Python | C | C++
+🌐 Frontend Aero:    HTML | CSS
+⚙️ DevOps Pit Crew:  Git | Linux
 
 ┌──────────────────────────── CURRENT RACE DATA ──────────────────────────┐
 
-🏎️ Current Project:    Building something awesome
-📚 Learning Curve:     New tech that scares me (the fun kind)
+🏎️ Current Project:  Building something awesome
+📚 Learning Curve:   New tech that scares me (the fun kind)
 
 ┌──────────────────────────── TELEMETRY STATS ────────────────────────────┐
 
-📦 Repositories:       06
-⭐ Stars Collected:    Still searching
-🔧 Contributions:      02
-🔥 Coding Streak:      Still on track
-🐛 Bugs Squashed:      Too many to count
+📦 Repositories:     06
+⭐ Stars Collected:   Still searching
+🔧 Contributions:    02
+🔥 Coding Streak:    Still on track
+🐛 Bugs Squashed:    Too many to count
 
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
 </div>
-
