@@ -68,7 +68,7 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="29" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="29" alt="pycharm logo"  />
+  <img src="https://img.shields.io/badge/PyCharm-8CC445?logo=pycharm&logoColor=white&style=for-the-badge" height="29" alt="pycharm logo"  />
   
 </div>
 
