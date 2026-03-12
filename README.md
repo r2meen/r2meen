@@ -33,19 +33,18 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="29" alt="css logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="29" alt="github logo"  />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="29" alt="sqlite logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="29" alt="git logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="29" alt="pycharm logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="29" alt="arduino logo"  />
+  <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="29" alt="linux logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="29" alt="sqlite logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="29" alt="git logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="29" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="29" alt="github logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="29" alt="arduino logo"  />
+  
 </div>
 
 ###
@@ -65,8 +64,12 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="29" alt="figma logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=for-the-badge" height="29" alt="opera logo"  />
-  <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="29" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="29" alt="pycharm logo"  />
+  
 </div>
 
 ###
