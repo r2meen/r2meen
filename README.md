@@ -9,5 +9,5 @@
   <p>
     Outside of academics, I enjoy following developments in science, creating art, playing video games, and making tech-related content.
   </p>
-  <p><strong>Let's connect!</strong></p>
+  <p><strong>💫</strong></p>
 </section>
