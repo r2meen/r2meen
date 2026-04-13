@@ -1,5 +1,5 @@
 <section class="intro">
-  <h2>Hi there!</h2>
+  <h2>Hi there! 👋</h2>
   <p>
     I'm Rameen, an aspiring computer engineer and currently a freshman pursuing my degree.
   </p>
