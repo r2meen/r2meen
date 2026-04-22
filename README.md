@@ -7,7 +7,7 @@
     I'm fascinated by large-scale, high-impact technology products and love learning how complex systems are built and scaled.
   </p>
   <p>
-    Outside of academics, I enjoy following developments in science, creating art, playing video games, and making tech-related content.
+    Outside of academics, I enjoy following developments in science including astronomy and astrophysics, creating art, playing video games, learning about aerodynamics and watching formula one. 
   </p>
-  <p><strong>💫</strong></p>
+  <p><strong>🏁</strong></p>
 </section>
