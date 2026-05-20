@@ -1,13 +1,13 @@
 <section class="intro">
   <h2>Hi there! 👋</h2>
   <p>
-    I'm Rameen, an aspiring computer engineer and currently a freshman pursuing my degree.
+    I'm Rameen, a freshman currently pursuing a degree in Computer Engineering.
   </p>
   <p>
     I'm fascinated by large-scale, high-impact technology products and love learning how complex systems are built and scaled.
   </p>
   <p>
-    Outside of academics, I enjoy following developments in science including astronomy and astrophysics, creating art, playing video games, learning about aerodynamics and watching formula one. 
+    Outside of academics, I enjoy following developments in science specially astronomy, evolution in history and arts, games and motorsports.
   </p>
   <p><strong>🏁</strong></p>
 </section>
