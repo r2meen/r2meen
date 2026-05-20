@@ -9,5 +9,5 @@
   <p>
     Outside of academics, I enjoy following developments in science specially astronomy, evolution in history and arts, games and motorsports.
   </p>
-  <p><strong>🏁</strong></p>
+  <p><strong>Let's Connect!</strong></p>
 </section>
