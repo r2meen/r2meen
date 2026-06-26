@@ -1,27 +1,22 @@
-<section class="intro">
-  <h2>Hi, I'm Rameen! 👋</h2>
-  <p>
-    I am a Computer Engineering freshman exploring the intersection of <strong>technical architecture and creative expression</strong>. I thrive on the challenge of building complex, high-impact systems, with a special focus on the immersive world of <strong>game development</strong>.
-  </p>
-  <p>
-    To me, coding is just another form of storytelling—a place where rigorous logic meets the art of design. When I’m not pushing code, you’ll find me diving into:
-  </p>
-  <ul>
-    <li>📚 <strong>Literature & Arts:</strong> Exploring narratives and aesthetics that challenge the status quo.</li>
-    <li>🌌 <strong>Science & History:</strong> Tracking the evolution of human history and the mysteries of astronomy.</li>
-    <li>🏎️ <strong>Motorsports:</strong> Appreciating the high-speed precision of engineering in motion.</li>
-  </ul>
-  <p>
-    I am a developer who codes with heart and an artist who builds with logic. <strong>Let’s connect and create something meaningful!</strong>
-  </p>
-  
-  <p>    
-    <a href="https://medium.com" target="_blank">
-      <img src="https://shields.io" alt="Medium">
-    </a>
-    <a href="https://orcid.org/0009-0003-6664-0780" target="_blank">
-      <img src="https://shields.io" alt="ORCID">
-    </a>
-  </p>
+# Hi, I'm Rameen! 👋
 
-</section>
+I am a Computer Engineering freshman exploring the intersection of **technical architecture and creative expression**. I thrive on the challenge of building complex, high-impact systems, with a special focus on the immersive world of **game development**.
+
+To me, coding is just another form of storytelling—a place where rigorous logic meets the art of design. When I’m not pushing code, you’ll find me diving into:
+
+* 📚 **Literature & Arts:** Exploring narratives and aesthetics that challenge the status quo.
+* 🌌 **Science & History:** Tracking the evolution of human history and the mysteries of astronomy.
+* 🏎️ **Motorsports:** Appreciating the high-speed precision of engineering in motion.
+
+I am a developer who codes with heart and an artist who builds with logic. **Let’s connect and create something meaningful!**
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://medium.com" target="_blank">
+  <img src="https://shields.io" alt="Medium">
+</a>
+<a href="https://orcid.org" target="_blank">
+  <img src="https://shields.io" alt="ORCID">
+</a>
