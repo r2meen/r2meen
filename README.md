@@ -8,11 +8,13 @@
   </p>
   <ul>
     <li>📚 <strong>Literature & Arts:</strong> Exploring narratives and aesthetics that challenge the status quo.</li>
-    <li>🎵 <strong>Music:</strong> Finding inspiration in the rhythm and structure of sound.</li>
     <li>🌌 <strong>Science & History:</strong> Tracking the evolution of human history and the mysteries of astronomy.</li>
     <li>🏎️ <strong>Motorsports:</strong> Appreciating the high-speed precision of engineering in motion.</li>
   </ul>
   <p>
     I am a developer who codes with heart and an artist who builds with logic. <strong>Let’s connect and create something meaningful!</strong>
   </p>
+  [![Medium](https://shields.io)](www.medium.com/@rameenzulfi)
+  [![ORCID](https://shields.io)](https://orcid.org/0009-0003-6664-0780)
+
 </section>
