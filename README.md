@@ -8,7 +8,7 @@ To me, coding is just another form of storytelling—a place where rigorous logi
 * 🌌 **Science & History:** Tracking the evolution of human history and the mysteries of astronomy.
 * 🏎️ **Motorsports:** Appreciating the high-speed precision of engineering in motion.
 
-I am a developer who codes with heart and an artist who builds with logic. **Let’s connect and create something meaningful!**
+**Let’s connect and create something meaningful!**
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rameenzulfi)
 [![Orcid](https://shields.io)](https://orcid.org/0009-0003-6664-0780)
