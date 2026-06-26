@@ -14,7 +14,14 @@
   <p>
     I am a developer who codes with heart and an artist who builds with logic. <strong>Let’s connect and create something meaningful!</strong>
   </p>
-  [![Medium](https://shields.io)](www.medium.com/@rameenzulfi)
-  [![ORCID](https://shields.io)](https://orcid.org/0009-0003-6664-0780)
+  
+  <p>    
+    <a href="https://medium.com" target="_blank">
+      <img src="https://shields.io" alt="Medium">
+    </a>
+    <a href="https://orcid.org/0009-0003-6664-0780" target="_blank">
+      <img src="https://shields.io" alt="ORCID">
+    </a>
+  </p>
 
 </section>
