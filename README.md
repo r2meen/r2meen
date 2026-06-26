@@ -11,4 +11,4 @@ To me, coding is just another form of storytelling—a place where rigorous logi
 **Let’s connect and create something meaningful!**
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rameenzulfi)
-[![Orcid](https://shields.io)](https://orcid.org/0009-0003-6664-0780)
+[![Orcid](https://img.shields.io/badge/Orcid-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6664-0780)
